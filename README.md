@@ -14,13 +14,13 @@
 A layered PostgreSQL pipeline over 5.6 million bike trips, answering 21 business questions for a marketing team: where to target, when to launch, how much converting riders is really worth, and how to prove a campaign worked.
 `PostgreSQL` `SCD Type 2` `window functions` `data quality` `Tableau`
 
-### 🛒 Superstore Sales Analysis
+### 🛒 [Superstore Sales Analysis](https://github.com/Aditya-Choudhary-Dev/superstore-sql-analysis)
 SQL analysis of retail orders: sales and profit by region, category and customer, using CTEs and window functions.
-`PostgreSQL` `CTEs` `window functions`
+`PostgreSQL` `CTEs` `window functions` `Tableau`
 
-### 👥 HR Employee Attrition
+### 👥 [IBM HR Employee Attrition](https://github.com/Aditya-Choudhary-Dev/Ibm-hr-attrition-analysis)
 Which employees leave, and why: attrition rates by department, role, pay and tenure.
-`PostgreSQL` `HR analytics`
+`PostgreSQL` `HR analytics` `Tableau`
 
 ---
 
